@@ -1,0 +1,1526 @@
+{
+  "pasta": {
+    "aliases": ["spaghetti", "penne", "macaroni", "noodles", "white pasta", "regular pasta"],
+    "category": "grains",
+    "calories_per_100g": 131,
+    "protein_per_100g": 5.0,
+    "fiber_per_100g": 1.8,
+    "substitutes": [
+      {
+        "name": "Chickpea pasta",
+        "reason": "Roughly double the protein and fiber of regular pasta, which helps with satiety and blood sugar control.",
+        "calories_per_100g": 160,
+        "protein_per_100g": 12.0,
+        "fiber_per_100g": 6.0
+      },
+      {
+        "name": "Lentil pasta",
+        "reason": "High in plant protein and fiber, lower glycemic impact than refined wheat pasta.",
+        "calories_per_100g": 155,
+        "protein_per_100g": 13.0,
+        "fiber_per_100g": 7.0
+      },
+      {
+        "name": "Zucchini noodles (zoodles)",
+        "reason": "Very low calorie, high water content, adds a vegetable serving in place of refined carbs.",
+        "calories_per_100g": 17,
+        "protein_per_100g": 1.2,
+        "fiber_per_100g": 1.0
+      },
+      {
+        "name": "Whole wheat pasta",
+        "reason": "More fiber and micronutrients retained from the whole grain compared to refined white pasta.",
+        "calories_per_100g": 124,
+        "protein_per_100g": 5.3,
+        "fiber_per_100g": 3.9
+      }
+    ]
+  },
+  "white rice": {
+    "aliases": ["rice", "jasmine rice", "basmati rice"],
+    "category": "grains",
+    "calories_per_100g": 130,
+    "protein_per_100g": 2.7,
+    "fiber_per_100g": 0.4,
+    "substitutes": [
+      {
+        "name": "Cauliflower rice",
+        "reason": "A fraction of the calories and carbs, adds fiber and vitamin C.",
+        "calories_per_100g": 25,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 2.0
+      },
+      {
+        "name": "Quinoa",
+        "reason": "Complete protein source (all essential amino acids) with more fiber than white rice.",
+        "calories_per_100g": 120,
+        "protein_per_100g": 4.4,
+        "fiber_per_100g": 2.8
+      },
+      {
+        "name": "Brown rice",
+        "reason": "Whole grain retains bran and germ, more fiber and nutrients than white rice.",
+        "calories_per_100g": 112,
+        "protein_per_100g": 2.6,
+        "fiber_per_100g": 1.8
+      }
+    ]
+  },
+  "white bread": {
+    "aliases": ["bread", "sandwich bread", "sliced bread"],
+    "category": "grains",
+    "calories_per_100g": 265,
+    "protein_per_100g": 9.0,
+    "fiber_per_100g": 2.7,
+    "substitutes": [
+      {
+        "name": "Whole grain bread",
+        "reason": "More fiber and micronutrients, slower blood sugar response than refined white bread.",
+        "calories_per_100g": 247,
+        "protein_per_100g": 13.0,
+        "fiber_per_100g": 7.0
+      },
+      {
+        "name": "Sprouted grain bread",
+        "reason": "Sprouting increases nutrient availability and fiber while lowering the glycemic load.",
+        "calories_per_100g": 250,
+        "protein_per_100g": 10.0,
+        "fiber_per_100g": 5.0
+      },
+      {
+        "name": "Ezekiel bread",
+        "reason": "Made from sprouted grains and legumes, higher in protein and fiber than standard white bread.",
+        "calories_per_100g": 250,
+        "protein_per_100g": 9.5,
+        "fiber_per_100g": 6.0
+      }
+    ]
+  },
+  "potato chips": {
+    "aliases": ["chips", "crisps"],
+    "category": "snacks",
+    "calories_per_100g": 536,
+    "protein_per_100g": 7.0,
+    "fiber_per_100g": 4.4,
+    "substitutes": [
+      {
+        "name": "Baked veggie chips",
+        "reason": "Baked instead of fried, meaningfully less fat per serving.",
+        "calories_per_100g": 450,
+        "protein_per_100g": 6.0,
+        "fiber_per_100g": 5.0
+      },
+      {
+        "name": "Air-popped popcorn",
+        "reason": "Whole grain snack, far lower calorie density than fried chips.",
+        "calories_per_100g": 387,
+        "protein_per_100g": 13.0,
+        "fiber_per_100g": 14.5
+      },
+      {
+        "name": "Roasted chickpeas",
+        "reason": "Crunchy snack with much more protein and fiber than potato chips.",
+        "calories_per_100g": 400,
+        "protein_per_100g": 20.0,
+        "fiber_per_100g": 10.0
+      }
+    ]
+  },
+  "sour cream": {
+    "aliases": [],
+    "category": "dairy",
+    "calories_per_100g": 193,
+    "protein_per_100g": 2.4,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Plain Greek yogurt",
+        "reason": "Similar tang and texture with far more protein and less fat.",
+        "calories_per_100g": 59,
+        "protein_per_100g": 10.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "mayonnaise": {
+    "aliases": ["mayo"],
+    "category": "condiments",
+    "calories_per_100g": 680,
+    "protein_per_100g": 1.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Mashed avocado",
+        "reason": "Swaps refined oils for monounsaturated fats and adds fiber.",
+        "calories_per_100g": 160,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 7.0
+      },
+      {
+        "name": "Greek yogurt-based spread",
+        "reason": "Much lower fat and calories while keeping a creamy texture.",
+        "calories_per_100g": 90,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "sugar": {
+    "aliases": ["white sugar", "granulated sugar", "table sugar"],
+    "category": "sweeteners",
+    "calories_per_100g": 387,
+    "protein_per_100g": 0.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Mashed ripe banana",
+        "reason": "Natural sweetness plus fiber, potassium, and micronutrients instead of empty calories.",
+        "calories_per_100g": 89,
+        "protein_per_100g": 1.1,
+        "fiber_per_100g": 2.6
+      },
+      {
+        "name": "Unsweetened applesauce",
+        "reason": "Adds moisture and sweetness to baking with a fraction of the sugar's calories.",
+        "calories_per_100g": 42,
+        "protein_per_100g": 0.2,
+        "fiber_per_100g": 1.2
+      },
+      {
+        "name": "Dates (blended into paste)",
+        "reason": "Whole-food sweetener that brings fiber and minerals along with the sweetness.",
+        "calories_per_100g": 277,
+        "protein_per_100g": 1.8,
+        "fiber_per_100g": 6.7
+      }
+    ]
+  },
+  "butter": {
+    "aliases": [],
+    "category": "fats",
+    "calories_per_100g": 717,
+    "protein_per_100g": 0.9,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Extra virgin olive oil",
+        "reason": "Higher in unsaturated fats, associated with better cardiovascular outcomes than butter.",
+        "calories_per_100g": 884,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Mashed avocado (for spreading)",
+        "reason": "Unsaturated fat source with added fiber, good swap for spreading on toast.",
+        "calories_per_100g": 160,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 7.0
+      }
+    ]
+  },
+  "ground beef": {
+    "aliases": ["beef mince", "hamburger meat", "minced beef"],
+    "category": "protein",
+    "calories_per_100g": 254,
+    "protein_per_100g": 17.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Ground turkey (93% lean)",
+        "reason": "Lower saturated fat while keeping a comparable protein content.",
+        "calories_per_100g": 176,
+        "protein_per_100g": 20.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Lentils",
+        "reason": "Plant-based swap with fiber and no saturated fat, good in chili or bolognese.",
+        "calories_per_100g": 116,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 7.9
+      },
+      {
+        "name": "Mushroom and walnut mix",
+        "reason": "Mimics the texture of ground meat with much lower saturated fat and added fiber.",
+        "calories_per_100g": 140,
+        "protein_per_100g": 4.5,
+        "fiber_per_100g": 3.0
+      }
+    ]
+  },
+  "soda": {
+    "aliases": ["soft drink", "cola", "pop", "coke"],
+    "category": "beverages",
+    "calories_per_100g": 42,
+    "protein_per_100g": 0.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Sparkling water with fruit",
+        "reason": "Keeps the carbonation people enjoy with none of the added sugar.",
+        "calories_per_100g": 0,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Unsweetened iced tea",
+        "reason": "Flavorful alternative without the added sugar of soda, plus antioxidants from tea.",
+        "calories_per_100g": 1,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "ice cream": {
+    "aliases": [],
+    "category": "desserts",
+    "calories_per_100g": 207,
+    "protein_per_100g": 3.5,
+    "fiber_per_100g": 0.7,
+    "substitutes": [
+      {
+        "name": "Frozen banana 'nice cream'",
+        "reason": "Blended frozen banana gives a creamy texture with only the natural sugars of fruit.",
+        "calories_per_100g": 95,
+        "protein_per_100g": 1.1,
+        "fiber_per_100g": 2.6
+      },
+      {
+        "name": "Greek yogurt bark or frozen yogurt",
+        "reason": "Much higher protein and lower sugar than traditional ice cream.",
+        "calories_per_100g": 120,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "white flour": {
+    "aliases": ["all purpose flour", "all-purpose flour", "refined flour"],
+    "category": "grains",
+    "calories_per_100g": 364,
+    "protein_per_100g": 10.0,
+    "fiber_per_100g": 2.7,
+    "substitutes": [
+      {
+        "name": "Whole wheat flour",
+        "reason": "Retains the bran and germ, so more fiber and nutrients than refined white flour.",
+        "calories_per_100g": 340,
+        "protein_per_100g": 13.0,
+        "fiber_per_100g": 10.7
+      },
+      {
+        "name": "Almond flour",
+        "reason": "Lower carb, higher protein and healthy fat option for baking.",
+        "calories_per_100g": 571,
+        "protein_per_100g": 21.0,
+        "fiber_per_100g": 10.0
+      },
+      {
+        "name": "Oat flour",
+        "reason": "Whole grain flour with beta-glucan fiber shown to support heart health.",
+        "calories_per_100g": 404,
+        "protein_per_100g": 15.0,
+        "fiber_per_100g": 6.5
+      }
+    ]
+  },
+  "bacon": {
+    "aliases": [],
+    "category": "protein",
+    "calories_per_100g": 541,
+    "protein_per_100g": 37.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Turkey bacon",
+        "reason": "Lower in total fat and calories while keeping a similar smoky, salty flavor.",
+        "calories_per_100g": 300,
+        "protein_per_100g": 30.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Baked tempeh strips",
+        "reason": "Plant-based, fiber-containing swap that crisps up similarly when pan-fried.",
+        "calories_per_100g": 195,
+        "protein_per_100g": 19.0,
+        "fiber_per_100g": 5.0
+      }
+    ]
+  },
+  "french fries": {
+    "aliases": ["fries", "chips (uk fries)"],
+    "category": "snacks",
+    "calories_per_100g": 312,
+    "protein_per_100g": 3.4,
+    "fiber_per_100g": 3.8,
+    "substitutes": [
+      {
+        "name": "Baked sweet potato fries",
+        "reason": "Baked instead of deep-fried, plus more vitamin A and fiber from sweet potato.",
+        "calories_per_100g": 150,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 3.3
+      },
+      {
+        "name": "Air-fried potato wedges",
+        "reason": "Same base ingredient, dramatically less oil from air-frying vs deep-frying.",
+        "calories_per_100g": 170,
+        "protein_per_100g": 3.0,
+        "fiber_per_100g": 2.5
+      }
+    ]
+  },
+  "cream cheese": {
+    "aliases": [],
+    "category": "dairy",
+    "calories_per_100g": 342,
+    "protein_per_100g": 6.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Whipped cottage cheese",
+        "reason": "Blending cottage cheese smooth gives a similar spreadable texture with far more protein.",
+        "calories_per_100g": 98,
+        "protein_per_100g": 11.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Greek yogurt cream cheese blend",
+        "reason": "Cuts fat and calories roughly in half while keeping a tangy, creamy texture.",
+        "calories_per_100g": 150,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "ranch dressing": {
+    "aliases": ["ranch"],
+    "category": "condiments",
+    "calories_per_100g": 429,
+    "protein_per_100g": 1.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Greek yogurt ranch",
+        "reason": "Same herby ranch flavor with a fraction of the fat and added protein.",
+        "calories_per_100g": 110,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "aliases": ["bread crumbs"],
+    "category": "grains",
+    "calories_per_100g": 395,
+    "protein_per_100g": 13.0,
+    "fiber_per_100g": 3.9,
+    "substitutes": [
+      {
+        "name": "Crushed rolled oats",
+        "reason": "Whole grain breading with more fiber and a similar crisp texture when baked.",
+        "calories_per_100g": 389,
+        "protein_per_100g": 17.0,
+        "fiber_per_100g": 10.6
+      },
+      {
+        "name": "Panko from whole wheat bread",
+        "reason": "Same light crunch as regular panko, more fiber from whole grain bread.",
+        "calories_per_100g": 350,
+        "protein_per_100g": 12.0,
+        "fiber_per_100g": 6.0
+      }
+    ]
+  },
+  "tortilla": {
+    "aliases": ["flour tortilla", "wrap"],
+    "category": "grains",
+    "calories_per_100g": 310,
+    "protein_per_100g": 8.0,
+    "fiber_per_100g": 2.0,
+    "substitutes": [
+      {
+        "name": "Whole wheat tortilla",
+        "reason": "More fiber than a refined flour tortilla with a similar wrap-and-fold texture.",
+        "calories_per_100g": 280,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 5.0
+      },
+      {
+        "name": "Lettuce wrap",
+        "reason": "Very low calorie way to hold fillings when you want to cut carbs significantly.",
+        "calories_per_100g": 15,
+        "protein_per_100g": 1.4,
+        "fiber_per_100g": 1.3
+      }
+    ]
+  },
+  "pizza crust": {
+    "aliases": ["pizza dough"],
+    "category": "grains",
+    "calories_per_100g": 266,
+    "protein_per_100g": 8.0,
+    "fiber_per_100g": 2.3,
+    "substitutes": [
+      {
+        "name": "Cauliflower pizza crust",
+        "reason": "Lower carb and calorie base while adding a vegetable serving.",
+        "calories_per_100g": 120,
+        "protein_per_100g": 5.0,
+        "fiber_per_100g": 2.5
+      },
+      {
+        "name": "Whole wheat pizza crust",
+        "reason": "More fiber and nutrients from the whole grain versus refined dough.",
+        "calories_per_100g": 250,
+        "protein_per_100g": 10.0,
+        "fiber_per_100g": 5.0
+      }
+    ]
+  },
+  "granola bar": {
+    "aliases": ["granola bars", "cereal bar"],
+    "category": "snacks",
+    "calories_per_100g": 471,
+    "protein_per_100g": 7.0,
+    "fiber_per_100g": 4.0,
+    "substitutes": [
+      {
+        "name": "Homemade nut and date bar",
+        "reason": "Whole-food ingredients, no added refined sugar or syrups.",
+        "calories_per_100g": 420,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 6.0
+      },
+      {
+        "name": "Handful of mixed nuts and dried fruit",
+        "reason": "Simple whole foods with healthy fats and fiber, no added sugar.",
+        "calories_per_100g": 460,
+        "protein_per_100g": 12.0,
+        "fiber_per_100g": 6.5
+      }
+    ]
+  },
+  "peanut butter": {
+    "aliases": ["pb"],
+    "category": "spreads",
+    "calories_per_100g": 588,
+    "protein_per_100g": 25.0,
+    "fiber_per_100g": 6.0,
+    "substitutes": [
+      {
+        "name": "Natural peanut butter (no added sugar/oil)",
+        "reason": "Same core ingredient without added sugars and hydrogenated oils found in some conventional brands.",
+        "calories_per_100g": 588,
+        "protein_per_100g": 25.0,
+        "fiber_per_100g": 6.0
+      },
+      {
+        "name": "Powdered peanut butter (mixed with water)",
+        "reason": "Most of the fat is removed, so significantly fewer calories for a similar flavor.",
+        "calories_per_100g": 200,
+        "protein_per_100g": 25.0,
+        "fiber_per_100g": 5.0
+      }
+    ]
+  },
+  "flavored yogurt": {
+    "aliases": ["fruit yogurt", "sweetened yogurt"],
+    "category": "dairy",
+    "calories_per_100g": 105,
+    "protein_per_100g": 3.8,
+    "fiber_per_100g": 0.2,
+    "substitutes": [
+      {
+        "name": "Plain Greek yogurt with fresh fruit",
+        "reason": "Cuts the added sugar found in most flavored yogurts while boosting protein.",
+        "calories_per_100g": 70,
+        "protein_per_100g": 10.0,
+        "fiber_per_100g": 1.0
+      }
+    ]
+  },
+  "soy sauce": {
+    "aliases": [],
+    "category": "condiments",
+    "calories_per_100g": 53,
+    "protein_per_100g": 8.0,
+    "fiber_per_100g": 0.8,
+    "substitutes": [
+      {
+        "name": "Low-sodium soy sauce",
+        "reason": "Same flavor profile with roughly 40% less sodium.",
+        "calories_per_100g": 50,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 0.8
+      },
+      {
+        "name": "Coconut aminos",
+        "reason": "Naturally lower in sodium than traditional soy sauce and gluten-free.",
+        "calories_per_100g": 65,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "sugary cereal": {
+    "aliases": ["cereal", "frosted cereal", "kids cereal"],
+    "category": "breakfast",
+    "calories_per_100g": 379,
+    "protein_per_100g": 6.0,
+    "fiber_per_100g": 3.0,
+    "substitutes": [
+      {
+        "name": "Plain rolled oats with fruit",
+        "reason": "Removes added sugar and adds soluble fiber that supports steady energy levels.",
+        "calories_per_100g": 389,
+        "protein_per_100g": 17.0,
+        "fiber_per_100g": 10.6
+      },
+      {
+        "name": "Unsweetened muesli",
+        "reason": "Whole grains and nuts without the added sugar coating of many cereals.",
+        "calories_per_100g": 360,
+        "protein_per_100g": 10.0,
+        "fiber_per_100g": 8.0
+      }
+    ]
+  },
+  "hot dog": {
+    "aliases": ["hotdog", "frankfurter"],
+    "category": "processed meat",
+    "calories_per_100g": 290,
+    "protein_per_100g": 10.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Chicken or turkey sausage",
+        "reason": "Lower in saturated fat and sodium than a traditional beef/pork hot dog.",
+        "calories_per_100g": 180,
+        "protein_per_100g": 15.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Plant-based sausage",
+        "reason": "No processed red meat, and many brands add fiber from pea or soy protein.",
+        "calories_per_100g": 165,
+        "protein_per_100g": 16.0,
+        "fiber_per_100g": 3.0
+      }
+    ]
+  },
+  "chicken nuggets": {
+    "aliases": ["nuggets", "chicken tenders"],
+    "category": "fast food",
+    "calories_per_100g": 296,
+    "protein_per_100g": 15.0,
+    "fiber_per_100g": 1.0,
+    "substitutes": [
+      {
+        "name": "Baked chicken breast pieces",
+        "reason": "Baked instead of deep-fried, so much less added fat for a similar amount of protein.",
+        "calories_per_100g": 165,
+        "protein_per_100g": 31.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Air-fried breaded chicken bites",
+        "reason": "Keeps the crunchy coating people like, with far less oil than deep-frying.",
+        "calories_per_100g": 200,
+        "protein_per_100g": 22.0,
+        "fiber_per_100g": 1.0
+      }
+    ]
+  },
+  "fried chicken": {
+    "aliases": ["fried chicken drumstick", "kfc"],
+    "category": "fast food",
+    "calories_per_100g": 320,
+    "protein_per_100g": 19.0,
+    "fiber_per_100g": 0.5,
+    "substitutes": [
+      {
+        "name": "Oven-baked chicken (skin on, breaded lightly)",
+        "reason": "Same crispy idea without the deep-fry oil, so noticeably fewer calories from fat.",
+        "calories_per_100g": 200,
+        "protein_per_100g": 25.0,
+        "fiber_per_100g": 0.5
+      },
+      {
+        "name": "Grilled chicken",
+        "reason": "No breading or frying oil at all, so much leaner while keeping the protein.",
+        "calories_per_100g": 165,
+        "protein_per_100g": 31.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "deli meat": {
+    "aliases": ["lunch meat", "cold cuts", "deli ham", "deli turkey"],
+    "category": "processed meat",
+    "calories_per_100g": 250,
+    "protein_per_100g": 18.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Freshly roasted chicken or turkey breast (sliced at home)",
+        "reason": "Much lower sodium and no nitrate preservatives compared to packaged deli meat.",
+        "calories_per_100g": 165,
+        "protein_per_100g": 31.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "whole milk": {
+    "aliases": ["full fat milk", "regular milk"],
+    "category": "dairy",
+    "calories_per_100g": 61,
+    "protein_per_100g": 3.2,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Skim or 1% milk",
+        "reason": "Same protein and calcium with much less saturated fat.",
+        "calories_per_100g": 35,
+        "protein_per_100g": 3.4,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Unsweetened soy milk",
+        "reason": "Comparable protein to dairy milk with no saturated fat, good for those avoiding dairy.",
+        "calories_per_100g": 33,
+        "protein_per_100g": 3.3,
+        "fiber_per_100g": 0.6
+      }
+    ]
+  },
+  "cheddar cheese": {
+    "aliases": ["cheese", "regular cheese"],
+    "category": "dairy",
+    "calories_per_100g": 403,
+    "protein_per_100g": 25.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Reduced-fat cheddar",
+        "reason": "Roughly a third fewer calories and less saturated fat while keeping a similar flavor.",
+        "calories_per_100g": 280,
+        "protein_per_100g": 28.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Nutritional yeast (for a cheesy flavor)",
+        "reason": "Adds a savory, cheese-like taste with very little fat and some B vitamins.",
+        "calories_per_100g": 325,
+        "protein_per_100g": 45.0,
+        "fiber_per_100g": 20.0
+      }
+    ]
+  },
+  "alfredo sauce": {
+    "aliases": ["cream sauce", "white pasta sauce"],
+    "category": "sauces",
+    "calories_per_100g": 220,
+    "protein_per_100g": 4.0,
+    "fiber_per_100g": 0.2,
+    "substitutes": [
+      {
+        "name": "Greek yogurt white sauce",
+        "reason": "Keeps the creamy texture while cutting most of the saturated fat and adding protein.",
+        "calories_per_100g": 90,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Blended cauliflower sauce",
+        "reason": "Cauliflower blended smooth mimics a creamy sauce with far fewer calories and added fiber.",
+        "calories_per_100g": 60,
+        "protein_per_100g": 3.0,
+        "fiber_per_100g": 2.0
+      }
+    ]
+  },
+  "ketchup": {
+    "aliases": ["tomato sauce (condiment)"],
+    "category": "condiments",
+    "calories_per_100g": 112,
+    "protein_per_100g": 1.2,
+    "fiber_per_100g": 0.4,
+    "substitutes": [
+      {
+        "name": "No-added-sugar ketchup",
+        "reason": "Same tomato flavor with little to none of the added sugar in regular ketchup.",
+        "calories_per_100g": 60,
+        "protein_per_100g": 1.2,
+        "fiber_per_100g": 0.4
+      },
+      {
+        "name": "Fresh salsa",
+        "reason": "Whole tomatoes and vegetables instead of a sugar-sweetened condiment.",
+        "calories_per_100g": 36,
+        "protein_per_100g": 1.5,
+        "fiber_per_100g": 1.5
+      }
+    ]
+  },
+  "caesar dressing": {
+    "aliases": ["caesar salad dressing"],
+    "category": "condiments",
+    "calories_per_100g": 480,
+    "protein_per_100g": 2.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Greek yogurt caesar dressing",
+        "reason": "Keeps the tangy, savory flavor with a fraction of the fat and more protein.",
+        "calories_per_100g": 110,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Lemon and olive oil vinaigrette (light hand)",
+        "reason": "Simple, less processed dressing with mostly unsaturated fat.",
+        "calories_per_100g": 250,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "milk chocolate bar": {
+    "aliases": ["chocolate bar", "candy bar", "milk chocolate"],
+    "category": "sweets",
+    "calories_per_100g": 535,
+    "protein_per_100g": 7.6,
+    "fiber_per_100g": 3.4,
+    "substitutes": [
+      {
+        "name": "Dark chocolate (70%+ cacao)",
+        "reason": "Less added sugar than milk chocolate and more antioxidants from the cacao.",
+        "calories_per_100g": 550,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 11.0
+      },
+      {
+        "name": "Cacao-dipped strawberries",
+        "reason": "A small amount of chocolate paired with whole fruit instead of a full candy bar.",
+        "calories_per_100g": 180,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 3.0
+      }
+    ]
+  },
+  "gummy candy": {
+    "aliases": ["gummy bears", "candy", "gummies"],
+    "category": "sweets",
+    "calories_per_100g": 325,
+    "protein_per_100g": 6.9,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Frozen grapes",
+        "reason": "Naturally sweet, chewy-when-frozen snack with fiber and no added sugar.",
+        "calories_per_100g": 69,
+        "protein_per_100g": 0.7,
+        "fiber_per_100g": 0.9
+      },
+      {
+        "name": "Dried fruit (unsweetened)",
+        "reason": "Naturally sweet and chewy like candy, but with fiber and no added sugar syrup.",
+        "calories_per_100g": 240,
+        "protein_per_100g": 2.5,
+        "fiber_per_100g": 5.0
+      }
+    ]
+  },
+  "energy drink": {
+    "aliases": ["energy drinks", "red bull", "monster energy"],
+    "category": "beverages",
+    "calories_per_100g": 45,
+    "protein_per_100g": 0.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Black coffee or plain green tea",
+        "reason": "Gives caffeine for energy without the added sugar and large caffeine spikes of energy drinks.",
+        "calories_per_100g": 2,
+        "protein_per_100g": 0.1,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Sparkling water with a splash of fruit juice",
+        "reason": "Keeps the fizzy, flavored feel without the caffeine crash or added sugar.",
+        "calories_per_100g": 10,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "fruit juice": {
+    "aliases": ["orange juice", "apple juice", "juice"],
+    "category": "beverages",
+    "calories_per_100g": 45,
+    "protein_per_100g": 0.5,
+    "fiber_per_100g": 0.2,
+    "substitutes": [
+      {
+        "name": "Whole fruit",
+        "reason": "Same natural sweetness as juice, plus the fiber that juicing removes, which slows sugar absorption.",
+        "calories_per_100g": 52,
+        "protein_per_100g": 0.3,
+        "fiber_per_100g": 2.4
+      },
+      {
+        "name": "Water infused with fruit slices",
+        "reason": "A hint of fruit flavor with almost none of the sugar and calories of juice.",
+        "calories_per_100g": 3,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "instant ramen noodles": {
+    "aliases": ["instant noodles", "instant ramen", "cup noodles"],
+    "category": "convenience food",
+    "calories_per_100g": 448,
+    "protein_per_100g": 9.0,
+    "fiber_per_100g": 2.0,
+    "substitutes": [
+      {
+        "name": "Whole wheat or soba noodles with homemade broth",
+        "reason": "Cuts the very high sodium of instant seasoning packets and adds fiber from whole grains.",
+        "calories_per_100g": 200,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 4.0
+      },
+      {
+        "name": "Rice noodles with fresh vegetables and low-sodium broth",
+        "reason": "Similar quick noodle-soup experience with far less sodium and added vegetables.",
+        "calories_per_100g": 190,
+        "protein_per_100g": 4.0,
+        "fiber_per_100g": 2.0
+      }
+    ]
+  },
+  "frozen pizza": {
+    "aliases": ["frozen pizzas"],
+    "category": "convenience food",
+    "calories_per_100g": 260,
+    "protein_per_100g": 11.0,
+    "fiber_per_100g": 2.0,
+    "substitutes": [
+      {
+        "name": "Homemade pizza on whole wheat crust with veggie toppings",
+        "reason": "Lets you control the sodium and cheese amount while adding fiber from the crust and vegetables.",
+        "calories_per_100g": 200,
+        "protein_per_100g": 12.0,
+        "fiber_per_100g": 4.0
+      },
+      {
+        "name": "Cauliflower crust pizza",
+        "reason": "Lower carb, lower calorie base while still delivering the pizza experience.",
+        "calories_per_100g": 170,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 2.5
+      }
+    ]
+  },
+  "canned cream soup": {
+    "aliases": ["cream of mushroom soup", "canned soup", "cream of chicken soup"],
+    "category": "convenience food",
+    "calories_per_100g": 100,
+    "protein_per_100g": 2.0,
+    "fiber_per_100g": 0.5,
+    "substitutes": [
+      {
+        "name": "Homemade broth-based soup with vegetables",
+        "reason": "Much lower sodium and no thickened cream base, plus real vegetable fiber.",
+        "calories_per_100g": 45,
+        "protein_per_100g": 3.0,
+        "fiber_per_100g": 1.5
+      },
+      {
+        "name": "Low-sodium canned soup",
+        "reason": "Same convenience with a large cut in sodium compared to regular canned soup.",
+        "calories_per_100g": 90,
+        "protein_per_100g": 2.5,
+        "fiber_per_100g": 1.0
+      }
+    ]
+  },
+  "coffee creamer": {
+    "aliases": ["creamer", "coffee cream"],
+    "category": "dairy",
+    "calories_per_100g": 340,
+    "protein_per_100g": 2.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Splash of milk or unsweetened oat milk",
+        "reason": "Skips the added sugar and oils found in many flavored coffee creamers.",
+        "calories_per_100g": 45,
+        "protein_per_100g": 1.5,
+        "fiber_per_100g": 0.4
+      }
+    ]
+  },
+  "margarine": {
+    "aliases": [],
+    "category": "fats",
+    "calories_per_100g": 717,
+    "protein_per_100g": 0.2,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Extra virgin olive oil",
+        "reason": "Avoids the processed vegetable oils in many margarines and adds heart-healthy unsaturated fat.",
+        "calories_per_100g": 884,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Mashed avocado",
+        "reason": "A whole-food spread with unsaturated fat and fiber instead of processed fats.",
+        "calories_per_100g": 160,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 7.0
+      }
+    ]
+  },
+  "whole eggs": {
+    "aliases": ["eggs", "fried eggs"],
+    "category": "protein",
+    "calories_per_100g": 143,
+    "protein_per_100g": 13.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Egg whites",
+        "reason": "Keeps the protein while removing most of the fat and cholesterol found in the yolk.",
+        "calories_per_100g": 52,
+        "protein_per_100g": 11.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Half whole eggs, half egg whites",
+        "reason": "A middle ground that lowers fat and cholesterol while keeping some yolk for flavor and nutrients.",
+        "calories_per_100g": 95,
+        "protein_per_100g": 12.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "salted peanuts": {
+    "aliases": ["peanuts", "salted nuts"],
+    "category": "snacks",
+    "calories_per_100g": 585,
+    "protein_per_100g": 24.0,
+    "fiber_per_100g": 8.0,
+    "substitutes": [
+      {
+        "name": "Unsalted raw or roasted almonds",
+        "reason": "Similar crunch and protein with much less added sodium.",
+        "calories_per_100g": 579,
+        "protein_per_100g": 21.0,
+        "fiber_per_100g": 12.5
+      },
+      {
+        "name": "Unsalted mixed nuts",
+        "reason": "Keeps the satisfying crunch and healthy fats without the extra sodium of salted snacks.",
+        "calories_per_100g": 600,
+        "protein_per_100g": 20.0,
+        "fiber_per_100g": 8.0
+      }
+    ]
+  },
+  "mashed potatoes": {
+    "aliases": ["mashed potato"],
+    "category": "sides",
+    "calories_per_100g": 113,
+    "protein_per_100g": 2.0,
+    "fiber_per_100g": 1.5,
+    "substitutes": [
+      {
+        "name": "Mashed cauliflower",
+        "reason": "A fraction of the calories and carbs of mashed potato with a similar creamy texture.",
+        "calories_per_100g": 25,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 2.0
+      },
+      {
+        "name": "Mashed sweet potato",
+        "reason": "More fiber and vitamin A than regular mashed potato, with natural sweetness.",
+        "calories_per_100g": 86,
+        "protein_per_100g": 1.6,
+        "fiber_per_100g": 3.0
+      }
+    ]
+  },
+  "coleslaw": {
+    "aliases": ["cole slaw"],
+    "category": "sides",
+    "calories_per_100g": 150,
+    "protein_per_100g": 1.0,
+    "fiber_per_100g": 1.5,
+    "substitutes": [
+      {
+        "name": "Greek yogurt-based coleslaw",
+        "reason": "Swaps most of the mayonnaise for yogurt, cutting fat while adding protein.",
+        "calories_per_100g": 70,
+        "protein_per_100g": 3.0,
+        "fiber_per_100g": 1.5
+      }
+    ]
+  },
+  "potato salad": {
+    "aliases": [],
+    "category": "sides",
+    "calories_per_100g": 143,
+    "protein_per_100g": 2.4,
+    "fiber_per_100g": 1.1,
+    "substitutes": [
+      {
+        "name": "Yogurt and mustard potato salad",
+        "reason": "Replaces most of the mayonnaise base with yogurt, lowering fat while keeping the tangy flavor.",
+        "calories_per_100g": 90,
+        "protein_per_100g": 3.0,
+        "fiber_per_100g": 1.5
+      }
+    ]
+  },
+  "pancake syrup": {
+    "aliases": ["maple flavored syrup", "table syrup"],
+    "category": "sweeteners",
+    "calories_per_100g": 260,
+    "protein_per_100g": 0.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Pure maple syrup",
+        "reason": "No high-fructose corn syrup, and it brings trace minerals like manganese and zinc.",
+        "calories_per_100g": 260,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      },
+      {
+        "name": "Warm fruit compote (berries or apple)",
+        "reason": "Naturally sweet topping with far fewer calories and some fiber from the fruit.",
+        "calories_per_100g": 70,
+        "protein_per_100g": 0.4,
+        "fiber_per_100g": 2.0
+      }
+    ]
+  },
+  "jam": {
+    "aliases": ["jelly", "fruit preserves"],
+    "category": "spreads",
+    "calories_per_100g": 250,
+    "protein_per_100g": 0.3,
+    "fiber_per_100g": 1.0,
+    "substitutes": [
+      {
+        "name": "Chia seed jam (fruit + chia, no added sugar)",
+        "reason": "Chia seeds naturally thicken the fruit without needing added sugar, and add fiber and omega-3s.",
+        "calories_per_100g": 110,
+        "protein_per_100g": 1.5,
+        "fiber_per_100g": 5.0
+      }
+    ]
+  },
+  "whipped cream": {
+    "aliases": ["whipped topping", "cool whip"],
+    "category": "desserts",
+    "calories_per_100g": 257,
+    "protein_per_100g": 2.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Whipped Greek yogurt",
+        "reason": "Much lower in calories and sugar while adding protein, with a similarly light texture.",
+        "calories_per_100g": 80,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "trail mix": {
+    "aliases": ["chocolate trail mix"],
+    "category": "snacks",
+    "calories_per_100g": 480,
+    "protein_per_100g": 10.0,
+    "fiber_per_100g": 5.0,
+    "substitutes": [
+      {
+        "name": "Plain nut and seed mix (no candy)",
+        "reason": "Removes the added-sugar candy pieces found in most trail mix, keeping the nutrient-dense nuts and seeds.",
+        "calories_per_100g": 570,
+        "protein_per_100g": 18.0,
+        "fiber_per_100g": 8.0
+      }
+    ]
+  },
+  "protein bar": {
+    "aliases": ["protein bars"],
+    "category": "snacks",
+    "calories_per_100g": 440,
+    "protein_per_100g": 20.0,
+    "fiber_per_100g": 3.0,
+    "substitutes": [
+      {
+        "name": "Whole-food protein bar (dates, nuts, no chocolate coating)",
+        "reason": "Fewer processed ingredients and less added sugar than candy-coated protein bars, while keeping protein high.",
+        "calories_per_100g": 400,
+        "protein_per_100g": 15.0,
+        "fiber_per_100g": 6.0
+      }
+    ]
+  },
+  "sports drink": {
+    "aliases": ["gatorade", "powerade"],
+    "category": "beverages",
+    "calories_per_100g": 24,
+    "protein_per_100g": 0.0,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Coconut water",
+        "reason": "Naturally contains electrolytes like potassium, with less added sugar than most sports drinks.",
+        "calories_per_100g": 19,
+        "protein_per_100g": 0.7,
+        "fiber_per_100g": 1.1
+      },
+      {
+        "name": "Water with a pinch of salt and lemon",
+        "reason": "Replaces electrolytes lost through sweat without any added sugar.",
+        "calories_per_100g": 1,
+        "protein_per_100g": 0.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "mac and cheese": {
+    "aliases": ["macaroni and cheese", "boxed mac and cheese"],
+    "category": "convenience food",
+    "calories_per_100g": 164,
+    "protein_per_100g": 6.0,
+    "fiber_per_100g": 1.0,
+    "substitutes": [
+      {
+        "name": "Homemade whole wheat mac and cheese",
+        "reason": "Whole wheat pasta adds fiber, and controlling the cheese sauce cuts the sodium found in boxed mixes.",
+        "calories_per_100g": 150,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 3.0
+      }
+    ]
+  },
+  "fish sticks": {
+    "aliases": ["fish fingers"],
+    "category": "convenience food",
+    "calories_per_100g": 290,
+    "protein_per_100g": 12.0,
+    "fiber_per_100g": 1.0,
+    "substitutes": [
+      {
+        "name": "Baked fish fillets (lightly breaded)",
+        "reason": "Baking instead of deep-frying cuts a large portion of the added fat while keeping protein high.",
+        "calories_per_100g": 180,
+        "protein_per_100g": 20.0,
+        "fiber_per_100g": 1.0
+      }
+    ]
+  },
+  "chicken pot pie": {
+    "aliases": ["pot pie"],
+    "category": "convenience food",
+    "calories_per_100g": 230,
+    "protein_per_100g": 7.0,
+    "fiber_per_100g": 1.5,
+    "substitutes": [
+      {
+        "name": "Homemade lighter pot pie (more veg, thinner crust)",
+        "reason": "Using more vegetables and a single thin crust layer instead of a double crust lowers calories and adds fiber.",
+        "calories_per_100g": 170,
+        "protein_per_100g": 10.0,
+        "fiber_per_100g": 3.0
+      }
+    ]
+  },
+  "muffin": {
+    "aliases": ["blueberry muffin", "bakery muffin"],
+    "category": "desserts",
+    "calories_per_100g": 377,
+    "protein_per_100g": 6.0,
+    "fiber_per_100g": 2.0,
+    "substitutes": [
+      {
+        "name": "Homemade whole wheat banana muffin (reduced sugar)",
+        "reason": "Whole wheat flour and mashed banana add fiber while cutting the added sugar found in bakery muffins.",
+        "calories_per_100g": 280,
+        "protein_per_100g": 6.0,
+        "fiber_per_100g": 4.0
+      }
+    ]
+  },
+  "doughnut": {
+    "aliases": ["donut", "glazed donut"],
+    "category": "desserts",
+    "calories_per_100g": 452,
+    "protein_per_100g": 5.0,
+    "fiber_per_100g": 1.4,
+    "substitutes": [
+      {
+        "name": "Baked doughnut (not fried)",
+        "reason": "Baking instead of deep-frying removes a significant amount of the added fat.",
+        "calories_per_100g": 300,
+        "protein_per_100g": 5.0,
+        "fiber_per_100g": 2.0
+      }
+    ]
+  },
+  "burger bun": {
+    "aliases": ["hamburger bun", "white bun"],
+    "category": "grains",
+    "calories_per_100g": 265,
+    "protein_per_100g": 9.0,
+    "fiber_per_100g": 2.4,
+    "substitutes": [
+      {
+        "name": "Whole wheat burger bun",
+        "reason": "More fiber and nutrients retained from the whole grain than a refined white bun.",
+        "calories_per_100g": 250,
+        "protein_per_100g": 10.0,
+        "fiber_per_100g": 5.5
+      },
+      {
+        "name": "Lettuce wrap (bunless)",
+        "reason": "Cuts the refined-carb bun entirely for a much lower calorie, higher water-content option.",
+        "calories_per_100g": 15,
+        "protein_per_100g": 1.4,
+        "fiber_per_100g": 1.3
+      }
+    ]
+  },
+  "croissant": {
+    "aliases": [],
+    "category": "bakery",
+    "calories_per_100g": 406,
+    "protein_per_100g": 8.0,
+    "fiber_per_100g": 2.6,
+    "substitutes": [
+      {
+        "name": "Whole grain dinner roll",
+        "reason": "Much less butter and fewer laminated layers of fat than a croissant, with more fiber from whole grain.",
+        "calories_per_100g": 270,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 4.5
+      }
+    ]
+  },
+  "canned vegetables": {
+    "aliases": ["canned corn", "canned green beans", "canned peas"],
+    "category": "convenience food",
+    "calories_per_100g": 40,
+    "protein_per_100g": 1.5,
+    "fiber_per_100g": 2.0,
+    "substitutes": [
+      {
+        "name": "No-salt-added canned vegetables",
+        "reason": "Same vegetable, calories, and fiber, but with a large reduction in added sodium.",
+        "calories_per_100g": 40,
+        "protein_per_100g": 1.5,
+        "fiber_per_100g": 2.0
+      },
+      {
+        "name": "Fresh or frozen vegetables",
+        "reason": "No added sodium at all, and frozen vegetables retain nutrients similarly to fresh.",
+        "calories_per_100g": 35,
+        "protein_per_100g": 1.8,
+        "fiber_per_100g": 2.2
+      }
+    ]
+  },
+  "canned beans": {
+    "aliases": ["canned black beans", "canned kidney beans", "canned pinto beans"],
+    "category": "legumes",
+    "calories_per_100g": 90,
+    "protein_per_100g": 5.0,
+    "fiber_per_100g": 6.0,
+    "substitutes": [
+      {
+        "name": "Low-sodium or no-salt-added canned beans",
+        "reason": "Keeps the same protein and fiber while cutting a large share of the added sodium.",
+        "calories_per_100g": 90,
+        "protein_per_100g": 5.0,
+        "fiber_per_100g": 6.0
+      },
+      {
+        "name": "Rinsed regular canned beans",
+        "reason": "Rinsing canned beans under water before eating removes roughly a third of their sodium at no cost.",
+        "calories_per_100g": 90,
+        "protein_per_100g": 5.0,
+        "fiber_per_100g": 6.0
+      }
+    ]
+  },
+  "chocolate chip cookies": {
+    "aliases": ["cookies", "chocolate chip cookie"],
+    "category": "desserts",
+    "calories_per_100g": 488,
+    "protein_per_100g": 5.7,
+    "fiber_per_100g": 2.5,
+    "substitutes": [
+      {
+        "name": "Oatmeal energy bites (oats, dates, nut butter, no bake)",
+        "reason": "Uses whole oats and dates instead of refined flour and sugar, adding fiber while cutting processed carbs.",
+        "calories_per_100g": 420,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 6.0
+      },
+      {
+        "name": "Homemade cookies with half the sugar and whole wheat flour",
+        "reason": "A simple recipe swap that keeps the same treat while reducing added sugar and adding fiber.",
+        "calories_per_100g": 400,
+        "protein_per_100g": 6.5,
+        "fiber_per_100g": 4.0
+      }
+    ]
+  },
+  "brownie": {
+    "aliases": ["brownies", "chocolate brownie"],
+    "category": "desserts",
+    "calories_per_100g": 405,
+    "protein_per_100g": 5.0,
+    "fiber_per_100g": 2.0,
+    "substitutes": [
+      {
+        "name": "Black bean brownies",
+        "reason": "Black beans replace much of the flour, adding fiber and protein while keeping a fudgy texture.",
+        "calories_per_100g": 280,
+        "protein_per_100g": 8.0,
+        "fiber_per_100g": 5.5
+      },
+      {
+        "name": "Avocado brownies (avocado replacing butter)",
+        "reason": "Swaps saturated fat from butter for unsaturated fat from avocado, with less added sugar.",
+        "calories_per_100g": 320,
+        "protein_per_100g": 5.5,
+        "fiber_per_100g": 4.0
+      }
+    ]
+  },
+  "cheesecake": {
+    "aliases": [],
+    "category": "desserts",
+    "calories_per_100g": 321,
+    "protein_per_100g": 5.5,
+    "fiber_per_100g": 0.5,
+    "substitutes": [
+      {
+        "name": "Greek yogurt 'cheesecake' (yogurt-based filling)",
+        "reason": "Replaces most of the cream cheese with Greek yogurt, cutting saturated fat and boosting protein substantially.",
+        "calories_per_100g": 150,
+        "protein_per_100g": 10.0,
+        "fiber_per_100g": 0.5
+      },
+      {
+        "name": "Cottage cheese-based cheesecake",
+        "reason": "Blended cottage cheese gives a similar creamy texture with far more protein and less fat than traditional cream cheese.",
+        "calories_per_100g": 140,
+        "protein_per_100g": 12.0,
+        "fiber_per_100g": 0.3
+      }
+    ]
+  },
+  "cake": {
+    "aliases": ["birthday cake", "yellow cake", "cake with frosting"],
+    "category": "desserts",
+    "calories_per_100g": 379,
+    "protein_per_100g": 3.2,
+    "fiber_per_100g": 0.6,
+    "substitutes": [
+      {
+        "name": "Whole wheat banana or carrot cake (reduced sugar)",
+        "reason": "Whole wheat flour and mashed fruit or vegetables add fiber and nutrients while cutting added sugar.",
+        "calories_per_100g": 280,
+        "protein_per_100g": 5.0,
+        "fiber_per_100g": 3.0
+      },
+      {
+        "name": "Angel food cake",
+        "reason": "Made without butter or egg yolks, so it's much lower in fat and calories than traditional frosted cake.",
+        "calories_per_100g": 258,
+        "protein_per_100g": 6.0,
+        "fiber_per_100g": 0.5
+      }
+    ]
+  },
+  "apple pie": {
+    "aliases": ["fruit pie"],
+    "category": "desserts",
+    "calories_per_100g": 265,
+    "protein_per_100g": 2.4,
+    "fiber_per_100g": 1.6,
+    "substitutes": [
+      {
+        "name": "Baked apples with cinnamon and oats",
+        "reason": "Keeps the same warm apple-cinnamon flavor without the buttery double crust, adding fiber from the oat topping.",
+        "calories_per_100g": 130,
+        "protein_per_100g": 2.0,
+        "fiber_per_100g": 3.0
+      },
+      {
+        "name": "Single-crust apple pie (whole wheat crust)",
+        "reason": "Removing the top crust and using whole wheat for the bottom crust cuts calories and adds fiber.",
+        "calories_per_100g": 190,
+        "protein_per_100g": 2.8,
+        "fiber_per_100g": 3.0
+      }
+    ]
+  },
+  "milkshake": {
+    "aliases": ["vanilla milkshake", "chocolate milkshake"],
+    "category": "beverages",
+    "calories_per_100g": 112,
+    "protein_per_100g": 3.9,
+    "fiber_per_100g": 0.0,
+    "substitutes": [
+      {
+        "name": "Frozen banana and milk smoothie",
+        "reason": "Uses frozen fruit for creaminess instead of ice cream, cutting added sugar and adding fiber and potassium.",
+        "calories_per_100g": 75,
+        "protein_per_100g": 3.0,
+        "fiber_per_100g": 1.5
+      },
+      {
+        "name": "Greek yogurt protein shake",
+        "reason": "Swaps ice cream for Greek yogurt, greatly increasing protein while lowering added sugar.",
+        "calories_per_100g": 80,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 0.0
+      }
+    ]
+  },
+  "pudding": {
+    "aliases": ["chocolate pudding", "vanilla pudding"],
+    "category": "desserts",
+    "calories_per_100g": 105,
+    "protein_per_100g": 3.2,
+    "fiber_per_100g": 0.6,
+    "substitutes": [
+      {
+        "name": "Chia seed pudding (milk + chia + cocoa or vanilla)",
+        "reason": "Chia seeds thicken the pudding naturally and add fiber and omega-3s that standard pudding lacks.",
+        "calories_per_100g": 110,
+        "protein_per_100g": 4.5,
+        "fiber_per_100g": 6.0
+      },
+      {
+        "name": "Greek yogurt pudding (yogurt + cocoa, no added sugar)",
+        "reason": "Much higher protein than traditional cornstarch-thickened pudding, with less added sugar.",
+        "calories_per_100g": 75,
+        "protein_per_100g": 9.0,
+        "fiber_per_100g": 0.3
+      }
+    ]
+  }
+}
