@@ -1,0 +1,6 @@
+# The core project (substitution_engine.py, main.py) uses only the
+# Python standard library — no installs needed to run it.
+#
+# Uncomment below only if you wire up the optional USDA FoodData Central
+# API integration mentioned at the bottom of substitution_engine.py:
+# requests
