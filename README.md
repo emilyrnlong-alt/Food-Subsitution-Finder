@@ -1,10 +1,7 @@
 # Food-Subsitution-Finder
 # Healthier Food Substitution Finder
 
-A small, UI Python project that takes a food name (e.g. `"pasta"`)
-and returns healthier substitutes (e.g. chickpea pasta, lentil pasta,
-zucchini noodles) along with a nutrition comparison and the reasoning
-behind each suggestion.
+A small, UI Python project that takes a food name, like pasta for example, and returns healthier substitutes (e.g. chickpea pasta, lentil pasta, zucchini noodles) along with a nutrition comparison comparing aspects like calories, protein and fibre. This tool is beneficial for those looking to prioritize health and find healthier options for daily foods.
 
 ## Project structure
 
@@ -40,23 +37,24 @@ Food> quit
 
 ## How it works
 
-- **`data/substitutions.json`** is the "existing database" — a curated
-  set of ~25 common foods, each with baseline nutrition (calories,
-  protein, fiber per 100g), a category, aliases (so "spaghetti" resolves
-  to "pasta"), and a list of substitute foods with their own nutrition
-  and a plain-English reason they're healthier.
+- **`data/substitutions.json`** is the databased — a
+  set of ~70 common foods curated by Claude to find the most commonly
+  searched foods for food substitution, each with baseline nutrition
+  (calories, protein, fiber per 100g), a category, aliases (so similar items
+  like "spaghetti" resolves to "pasta"), and a list of substitute foods with
+  their own nutrition and a justification as to why they're healthier.
 
 - **`substitution_engine.py`** exposes one main class, `SubstitutionEngine`:
   - `find_entry(query)` — resolves free text to a database entry using
-    exact match → fuzzy match (`difflib`) → substring match, in that order.
+    exact match → fuzzy match (`difflib`) → substring match
   - `get_substitutes(query, top_n=3)` — the main function you'll call
-    from your UI. Returns a dict with the matched food, its nutrition,
-    and ranked substitutes (ranked by a simple "more fiber/protein per
-    calorie" score).
+    from your UI. It functions by returning a dict with the matched food,
+    its nutrition, and ranked substitutes (ranked by comparing fiber and
+    protein per calories)
   - `list_all_foods()` — useful for an autocomplete dropdown later.
 
-- **`main.py`** is just a CLI wrapper for testing — swap this out for
-  your Flask/Streamlit/whatever UI without touching the engine.
+- **`main.py`** a CLI wrapper for testing — swap this out for
+  the UI.
 
 ## Example return value
 
