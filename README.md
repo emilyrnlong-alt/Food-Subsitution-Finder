@@ -21,7 +21,7 @@ food_sub_project/
 
 ## Running it
 
-No installs needed — everything runs on the standard library.
+No installs needed as everything runs on the standard library.
 
 ```bash
 cd food_sub_project
